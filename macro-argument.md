@@ -1,0 +1,50 @@
+# Macro argument
+
+↑ **Parent:** [OurBigBook Markup syntax](ourbigbook-markup-syntax.md)
+
+**Table of contents**
+
+- [Positional vs named arguments](positional-vs-named-arguments.md)
+  - [Positional argument](positional-argument.md)
+    - [Positional argument default values](positional-argument-default-values.md)
+    - [Mandatory positional arguments](mandatory-positional-arguments.md)
+  - [Named argument](named-argument.md)
+- [Macro argument type](macro-argument-type.md)
+  - [Boolean argument](boolean-argument.md)
+  - [Date argument](date-argument.md)
+  - [Positive nonzero integer argument](positive-nonzero-integer-argument.md)
+- [Common argument](common-argument.md)
+  - [`id` argument](id-argument.md)
+  - [`disambiguate` argument](disambiguate-argument.md)
+- [JavaScript interface for arguments](javascript-interface-for-arguments.md)
+- [Literal arguments](literal-arguments.md)
+- [Newline removal](newline-removal.md)
+  - [Argument leading and trailing newline removal](argument-leading-and-trailing-newline-removal.md)
+  - [Argument newlines between arguments removal](argument-newlines-between-arguments-removal.md)
+  - [Document trailing newline removal](document-trailing-newline-removal.md)
+- [CRLF](crlf.md)
+- [Escape characters](escape-characters.md)
+- [Macro argument property](macro-argument-property.md)
+  - [Disabled macro argument](disabled-macro-argument.md)
+  - [`cannotContains` macro argument](cannotcontains-macro-argument.md)
+  - [`empty` macro argument](empty-macro-argument.md)
+  - [`inlineOnly`](inlineonly.md)
+  - [`multiple` argument](multiple-argument.md)
+  - [`notEmpty` macro argument](notempty-macro-argument.md)
+  - [`remove_whitespace_children`](remove-whitespace-children.md)
+- [Pseudo-macro argument property](pseudo-macro-argument-property.md)
+  - [`content` argument](content-argument.md)
+  - [`title` argument](title-argument.md)
+  - [`description` argument](description-argument.md)
+
+## ↑ Ancestors (3)
+
+1. [OurBigBook Markup syntax](ourbigbook-markup-syntax.md)
+2. [OurBigBook Markup](ourbigbook-markup.md)
+3. [OurBigBook Project](split.md)
+
+## ← Incoming links (3)
+
+- [`Id` output format](id-output-format.md)
+- [Macro argument property](macro-argument-property.md)
+- [Paragraph](paragraph.md)
